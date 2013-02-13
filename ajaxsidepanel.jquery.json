@@ -1,7 +1,7 @@
 {
   "name": "ajaxsidepanel",
   "title": "Ajax Side Panel script",
-  "description": "Ajax Side Panel script fetches a page on your site using Ajax and displays it as part of the current page, using a slide out panel as its medium. It is ideal for showing short pages such as your Contact Us or "Terms of Service" page where whisking users to the new page only causes unnecessary delay and disorientation for the user. With Ajax Side Panel, the user remains on the current page while the requested one is loaded inline and asynchronously. The script supports loading a page either via Ajax or IFRAME. The later can be used to load more complex web pages on your site or from outside domains (Ajax is limited in this respect by the same domain origin policy).",
+  "description": "Ajax Side Panel script fetches a page on your site using Ajax and displays it as part of the current page, using a slide out panel as its medium. It is ideal for showing short pages such as your Contact Us or \"Terms of Service\" page where whisking users to the new page only causes unnecessary delay and disorientation for the user. With Ajax Side Panel, the user remains on the current page while the requested one is loaded inline and asynchronously. The script supports loading a page either via Ajax or IFRAME. The later can be used to load more complex web pages on your site or from outside domains (Ajax is limited in this respect by the same domain origin policy).",
   "keywords": ["ajax", "panel", "ui", "iframe"],
   "version": "1.0.0",
   "author": {
